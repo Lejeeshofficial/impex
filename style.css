@@ -1,0 +1,74 @@
+ @media  screen and (max-width:1000px) {
+   
+   html,body{
+      overflow-x: hidden;
+   }
+   
+       
+ }
+ .img1{
+   width: 15rem;
+   height: 15rem;
+   padding: 1em;
+   
+ }
+ 
+ .img2 {
+    width: 15rem;
+    height: 15rem;
+    padding: 1em;
+
+ }
+ 
+ .img3 {
+    width: 15rem;
+    height: 15rem;
+    padding: 1em;
+
+ }
+ .footer {
+    background: #152F4F;
+    color: white;
+ }
+
+
+       ul{
+          list-style-type: none;
+       }
+
+       li a {
+          color: white;
+          transition: color .2s;
+          
+       }
+           
+       
+    
+
+     
+       i {
+          font-size: 25px;
+       }
+
+       a {
+          color: white;
+          transition: color .2s;
+       }
+
+         .about-company :hover {
+             color: #4180CB
+          }
+       
+    
+
+    .location,i{
+        
+          font-size: 18px;
+       
+    }
+
+    .copyright p {
+       border-top: 1px solid rgba(255, 255, 255, .1);
+    }
+ 
+ 
